@@ -1,0 +1,13 @@
+langchain>=0.2.0
+langchain-community>=0.2.0
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+gpt4all>=2.0.0
+faiss-cpu>=1.7.4
+pymupdf>=1.23.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+reportlab>=4.0.9
+SpeechRecognition>=3.10.0
+gTTS>=2.5.0
+playsound==1.2.2
